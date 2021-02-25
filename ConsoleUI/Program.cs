@@ -2,7 +2,7 @@
 using DataAccess.Concrete.InMemory;
 using System;
 
-namespace ConsoleApp
+namespace ConsoleUI
 {
     class Program
     {
